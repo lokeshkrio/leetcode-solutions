@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0217-contains-duplicate](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Math
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
