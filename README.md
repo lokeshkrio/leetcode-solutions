@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0486-predict-the-winner](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Math
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0486-predict-the-winner](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## String
 |  |
 | ------- |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
