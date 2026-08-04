@@ -133,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0204-count-primes) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
