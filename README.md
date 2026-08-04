@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
+| [3731-find-missing-elements](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
+| [3731-find-missing-elements](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [3731-find-missing-elements](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
