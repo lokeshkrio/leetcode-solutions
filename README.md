@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0091-decode-ways](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0091-decode-ways](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0091-decode-ways) |
 ## Divide and Conquer
 |  |
 | ------- |
