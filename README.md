@@ -60,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0091-decode-ways](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0091-decode-ways) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0204-count-primes) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Primality Test
 |  |
 | ------- |
