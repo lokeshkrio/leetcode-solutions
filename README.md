@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3410-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Math
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -160,11 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/lokeshkrio/leetcode-solutions/tree/master/0190-reverse-bits) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/lokeshkrio/leetcode-solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
